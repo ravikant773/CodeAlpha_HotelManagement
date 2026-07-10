@@ -1,0 +1,3 @@
+BUY : Tata Motors Quantity : 5
+BUY : Infosys Quantity : 5
+BUY : Tata Motors Quantity : 5

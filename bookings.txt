@@ -1,0 +1,10 @@
+Booking ID: 1001, Customer: Rahul, Room: 102, Category: Deluxe, Price: ₹3500.0
+Booking ID: 1001, Customer: Rahul, Room: 102, Category: Deluxe, Price: ₹3500.0
+Booking ID: 1001, Customer: Rahul, Room: 102, Category: Deluxe, Price: ₹3500.0
+Booking ID: 1001, Customer: Rahul, Room: 102, Category: Deluxe, Price: ₹3500.0
+Booking ID: 1001, Customer: Rahul, Room: 102, Category: Deluxe, Price: ₹3500.0
+Booking ID: 1001, Customer: Rahul, Room: 102, Category: Deluxe, Price: ₹3500.0
+Booking ID: 1001, Customer: Rahul, Room: 101, Category: Standard, Price: ₹2000.0
+Booking ID: 1001, Customer: Rahul, Room: 101, Category: Standard, Price: ₹2000.0
+Booking ID: 1001, Customer: Rahul, Room: 101, Category: Standard, Price: ₹2000.0
+Booking ID: 1001, Customer: Rahul, Room: 101, Category: Standard, Price: ₹2000.0
